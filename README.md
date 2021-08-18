@@ -1,7 +1,7 @@
 ## CLI Quiz App on ELON MUSK, Made with JavaScript.
    
    
-It is developed in JavaScript on [https://replit.com/](https://replit.com/) in Node.js environment.
+It is developed in JavaScript on [https://replit.com/](https://replit.com/@aliarslanansari/markOne-Quiz-CLI-App?v=1) in Node.js environment.
 
 #### Packages Used
 - readline-sync : for taking user input on CLI
