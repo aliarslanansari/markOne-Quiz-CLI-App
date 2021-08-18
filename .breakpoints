@@ -1,0 +1,20 @@
+{
+  "files": {
+    "README.md": [
+      {
+        "id": "bb725b84-1ad3-44b9-b71d-1c65128b5680",
+        "line": 10,
+        "version": 150,
+        "index": 296
+      }
+    ],
+    "package.json": [
+      {
+        "id": "38292d26-e5e8-4098-a49c-576c09c9571c",
+        "line": 16,
+        "version": 26,
+        "index": 305
+      }
+    ]
+  }
+}
